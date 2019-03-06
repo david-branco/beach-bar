@@ -1,7 +1,7 @@
 ## Beach Bar
 Project developed under the discipline of Computer Graphics of the Degree in Computer Science (University of Minho).
 
-*Used Technologies: C/C++, OpenGl, GCC, CLion, Visual Studio, Sublime Text, GitHub, Trello, LaTeX, Texmaker, among others.*
+*Used Technologies: C/C++, OpenGL, GCC, CLion, Visual Studio, Sublime Text, GitHub, Trello, LaTeX, Texmaker, among others.*
 
 ![Bar Area 1](https://raw.githubusercontent.com/david-branco/beach-bar/master/screenshots/f4_area_bar_1.png)
 
@@ -30,7 +30,7 @@ Each phase also has a small application that allows visualizing each primitive a
 ## Bar da Praia
 Projecto desenvolvido no âmbito da disciplina de Computação Gráfica da Licenciatura em Ciências da Computação (Universidade do Minho).
 
-*Tecnologias Utilizadas: C/C++, OpenGl, GCC, CLion, Visual Studio, Sublime Text, GitHub, Trello, LaTeX, Texmaker, entre outras.*
+*Tecnologias Utilizadas: C/C++, OpenGL, GCC, CLion, Visual Studio, Sublime Text, GitHub, Trello, LaTeX, Texmaker, entre outras.*
 
 ![Área Bar 1](https://raw.githubusercontent.com/david-branco/beach-bar/master/screenshots/f4_area_bar_1.png)
 
